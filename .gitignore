@@ -1,3 +1,7 @@
+.dynamodb
+.serverless
+.webpack
+
 # Logs
 logs
 *.log
